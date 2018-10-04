@@ -15,7 +15,6 @@ import java.util.Collections;
 /**
  * Configuration class which enables Swagger
  *
- * @author romih
  */
 @Configuration
 @EnableSwagger2

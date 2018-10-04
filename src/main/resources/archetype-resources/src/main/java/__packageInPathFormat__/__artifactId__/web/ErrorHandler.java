@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 /**
  * Generic error handling mechanism.
  *
- * @author romih
  */
 @ControllerAdvice
 public class ErrorHandler {

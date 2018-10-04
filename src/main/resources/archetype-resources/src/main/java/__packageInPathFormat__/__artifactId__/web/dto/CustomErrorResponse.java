@@ -7,7 +7,6 @@ import java.io.Serializable;
 /**
  * Necessary for proper Swagger documentation.
  *
- * @author romih
  */
 @SuppressWarnings("unused")
 @AllArgsConstructor

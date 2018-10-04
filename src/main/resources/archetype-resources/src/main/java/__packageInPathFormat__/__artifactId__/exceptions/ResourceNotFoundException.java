@@ -3,7 +3,6 @@ package ${package}.${artifactId}.exceptions;
 /**
  * This exception should be thrown in all cases when a resource cannot be found
  *
- * @author romih
  */
 public class ResourceNotFoundException extends RuntimeException {
 
