@@ -1,9 +1,5 @@
 package ${package}.${artifactId}.retry;
 
-/**
- * Created by MRomeh on 05/09/2017.
- */
-
 import org.junit.rules.TestRule;
 import org.junit.runner.Description;
 import org.junit.runners.model.Statement;

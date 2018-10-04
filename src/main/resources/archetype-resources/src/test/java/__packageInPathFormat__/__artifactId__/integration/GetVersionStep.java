@@ -9,9 +9,6 @@ import org.springframework.http.ResponseEntity;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 
-/**
- * Created by MRomeh.
- */
 public class GetVersionStep extends CucumberRoot {
     private ResponseEntity<String> response; // output
 

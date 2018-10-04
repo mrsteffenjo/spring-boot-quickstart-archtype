@@ -6,9 +6,6 @@ import lombok.*;
 import javax.persistence.*;
 import java.util.Map;
 
-/**
- * Created by MRomeh
- */
 @Entity
 @Table(name = "Applications")
 @Builder

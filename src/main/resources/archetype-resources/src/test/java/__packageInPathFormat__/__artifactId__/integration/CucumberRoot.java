@@ -10,11 +10,6 @@ import org.springframework.test.context.ContextConfiguration;
 import ${package}.${artifactId}.Application;
 import java.util.Collections;
 
-/**
- * Created by MRomeh.
- */
-
-
 @SpringBootTest(classes = Application.class, webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @ActiveProfiles("INTEGRATION_TEST")
 @ContextConfiguration

@@ -9,10 +9,6 @@ import ${package}.${artifactId}.repository.ApplicationRepository;
 import ${package}.${artifactId}.domain.ApplicationItem;
 import java.util.List;
 
-
-/**
- * Created by MRomeh
- */
 @Service
 public class ApplicationService {
     private static final Logger log = LoggerFactory.getLogger(ApplicationService.class);

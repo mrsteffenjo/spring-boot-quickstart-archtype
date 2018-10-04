@@ -4,11 +4,6 @@ import java.util.Map;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.*;
 
-
-/**
- * Created by MRomeh
- */
-
 @Builder
 @Getter
 @Setter

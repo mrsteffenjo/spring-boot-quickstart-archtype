@@ -1,6 +1,6 @@
  Spring Boot Quickstart Maven Archetype
 =========================================
-![Build Status](https://travis-ci.org/Romeh/spring-boot-quickstart-archtype.svg?branch=master)
+![Build Status](https://travis-ci.org/mrsteffenjo/spring-boot-quickstart-archtype.svg?branch=master)
 
 ![alt text](AppArchtype.jpg)
 Summary
@@ -30,7 +30,7 @@ Installation
 To install the archetype in your local repository execute following commands:
 
 ```sh
-$ git clone https://github.com/Romeh/spring-boot-quickstart-archtype.git
+$ git clone https://github.com/mrsteffenjo/spring-boot-quickstart-archtype.git
 $ cd spring-boot-quickstart-archtype
 $ mvn clean install
 ```
@@ -40,7 +40,7 @@ Create a project
 
 ```sh
 $ mvn archetype:generate \
-     -DarchetypeGroupId=com.romeh.spring-boot-archetypes \
+     -DarchetypeGroupId=com.mrsteffenjo.spring-boot-archetypes \
      -DarchetypeArtifactId=spring-boot-quickstart \
      -DarchetypeVersion=1.0.0 \
      -DgroupId=com.test \
@@ -58,4 +58,4 @@ http://localhost:8080/swagger-ui.html
 
 Sample app generated from that archetype can be found here and more technical explanation:
 -------------------
-https://github.com/Romeh/spring-boot-sample-app
+https://github.com/mrsteffenjo/spring-boot-sample-app

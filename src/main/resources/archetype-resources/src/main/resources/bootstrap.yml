@@ -12,4 +12,4 @@ spring:
       server:
         bootstrap: true
         git:
-          uri: https://github.com/Romeh/config.git
+          uri: https://github.com/mrsteffenjo/config.git

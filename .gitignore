@@ -3,3 +3,4 @@
 .gitignore
 .idea/
 spring-boot-quickstart.iml
+/target/

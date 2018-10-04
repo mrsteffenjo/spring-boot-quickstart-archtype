@@ -1,9 +1,5 @@
 package ${package}.${artifactId}.retry;
 
-/**
- * Created by MRomeh on 05/09/2017.
- */
-
 import javax.validation.constraints.NotNull;
 import java.io.PrintWriter;
 import java.io.StringWriter;

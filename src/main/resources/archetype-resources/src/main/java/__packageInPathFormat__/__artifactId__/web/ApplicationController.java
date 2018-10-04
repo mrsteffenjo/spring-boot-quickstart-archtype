@@ -14,9 +14,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import ${package}.${artifactId}.service.ApplicationService;
 import ${package}.${artifactId}.domain.ApplicationItem;
-/**
- * Created by MRomeh on 08/08/2017.
- */
+
 @RestController
 @RequestMapping("/application")
 @Api(value = "Applciation demo")

@@ -7,9 +7,7 @@ import org.springframework.retry.annotation.CircuitBreaker;
 import org.springframework.retry.annotation.Recover;
 import org.springframework.stereotype.Service;
 import org.springframework.beans.factory.annotation.Autowired;
-/**
- * Created by MRomeh
- */
+
 @Service
 public class ExternalServiceWithSpringRetryAndCircuitBreaker {
     private static final Logger log = LoggerFactory.getLogger(ExternalServiceWithSpringRetryAndCircuitBreaker.class);

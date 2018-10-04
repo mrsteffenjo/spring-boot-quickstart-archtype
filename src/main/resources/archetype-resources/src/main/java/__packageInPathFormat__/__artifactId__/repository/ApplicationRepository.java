@@ -6,9 +6,6 @@ import org.springframework.stereotype.Repository;
 import ${package}.${artifactId}.domain.ApplicationItem;
 import java.util.List;
 
-/**
- * Created by MRomeh on 23/08/2017.
- */
 @Repository
 public interface ApplicationRepository extends JpaRepository<ApplicationItem, Long> {
 
